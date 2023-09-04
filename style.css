@@ -1,0 +1,13 @@
+.container
+{
+    background-color: rgba(15, 15, 15, 0.7);
+    color: aliceblue;
+    width: 98.99%;
+    padding: 1px;
+}
+
+.heading
+{
+    color: green;
+    font-size: 20px;
+}
